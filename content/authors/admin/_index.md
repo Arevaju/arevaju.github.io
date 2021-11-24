@@ -19,21 +19,21 @@ social:
     link: https://github.com/arevaju
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/juanarevalotorres/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master in Artificial Intelligence
+      institution: Artificial Intelligence Institute
+      year: 2021
+    - course: MSc in Engineering Applied to Development Projects
+      institution: Universitat Oberta Catalunya
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Environmental Sciences
+      institution: University of Salamanca
+      year: 2004
 email: ""
 superuser: true
 highlight_name: true
