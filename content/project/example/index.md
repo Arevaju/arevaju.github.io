@@ -13,7 +13,7 @@ url_video: ""
 date: 2020-12-26T01:00:00.000Z
 external_link: ""
 url_slides: ""
-title: AI to showcase a story of birds facing global warming
+title: ML to showcase a story of birds facing global warming
 tags:
   - Machine Learning
 links:
