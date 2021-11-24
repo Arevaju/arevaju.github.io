@@ -1,5 +1,5 @@
 ---
-title: EU DATAVIZ 2019
+title: Keynote Speaker at EU DATAVIZ 2019
 abstract: How to create spatial data visualisation tools that are easy to use,
   beautiful, capture attention and inspire actions. This presentation will be a
   source of inspiration for everyone.
