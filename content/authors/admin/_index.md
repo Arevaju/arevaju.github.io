@@ -34,7 +34,7 @@ education:
     - course: BSc in Environmental Sciences
       institution: University of Salamanca
       year: 2004
-email: ""
+email: juan.arevalo.torres@gmail.com
 superuser: true
 highlight_name: true
 ---
