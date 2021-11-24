@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/juanarevalotorres/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Randbee Consultants
+    url: https://www.randbee.com
 education:
   courses:
     - course: Master in Artificial Intelligence
