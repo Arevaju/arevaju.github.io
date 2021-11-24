@@ -42,6 +42,6 @@ email: juan.arevalo.torres@gmail.com
 superuser: true
 highlight_name: true
 ---
-Juan Arevalo is a senior data scientist and entrepreneur working in the geospatial industry. I enjoy developing products and solutions to solve real world problems.
+I am a senior data scientist and entrepreneur working in the geospatial industry. I enjoy developing products and solutions to solve real world problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
