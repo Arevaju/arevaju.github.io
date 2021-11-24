@@ -17,17 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
+  icon: project-diagram
+  icon_pack: fas
+  name: Project Managament
+- description: 100%
   icon: r-project
   icon_pack: fab
   name: R
 - description: 100%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 100%
-  icon: project-diagram
-  icon_pack: fas
-  name: Project managament
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
