@@ -5,7 +5,7 @@ summary: >-
   <!--StartFragment-->
 
 
-  The main goal of this project was to assess climate change effects on bird’s migration through the development of machine learning and statistical models on behalf of the European Centre for Medium-Range Weather Forecasts (ECMWF) funded by the Copernicus Earth Observation Programme. 
+  The main goal of this project was to assess climate change effects on bird’s migration through the development of machine learning and statistical models on behalf of the European Centre for Medium-Range Weather Forecasts (ECMWF). 
 
 
   <!--EndFragment-->
