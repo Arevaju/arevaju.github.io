@@ -27,13 +27,13 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/arevaju
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: []
 image:
   caption: Dataviz
   focal_point: Right
-  filename: dataviz.png
+  filename: featured.png
 url_code: ""
 ---
 
