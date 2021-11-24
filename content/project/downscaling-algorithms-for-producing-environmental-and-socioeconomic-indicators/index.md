@@ -7,7 +7,7 @@ categories:
   - Geostatistics
 external_link: https://fuore.espon.eu/
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
