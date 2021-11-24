@@ -6,6 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Data science and visualization
+  - Data Management
   - Artificial Intelligence
 social:
   - icon: envelope
@@ -39,7 +40,5 @@ superuser: true
 highlight_name: true
 ---
 Juan Arevalo is a senior data scientist and entrepreneur working in the geospatial industry. I enjoy developing products and solutions to solve real world problems.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
