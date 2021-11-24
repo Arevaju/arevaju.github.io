@@ -44,4 +44,4 @@ highlight_name: true
 ---
 I am a senior international consultant and entrepreneur working in the geospatial industry. I enjoy developing products and solutions to solve real world problems. In addition to this, I am a product-focused technologist who has designed and built attractive user interfaces, scalable web servers and platforms for data management, dissemination and analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
