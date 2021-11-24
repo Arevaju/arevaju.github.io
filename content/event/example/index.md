@@ -2,7 +2,7 @@
 abstract: How to create spatial data visualisation tools that are easy to use,
   beautiful, capture attention and inspire actions. This presentation will be a
   source of inspiration for everyone.
-slides: https://docs.google.com/presentation/d/1p2Bbkt8sjl5XhzecLzytv95vU4hk7dI2gT9mtYVXX0U/
+slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: EU DATAVIZ 2019
@@ -31,7 +31,7 @@ publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: Dataviz
   focal_point: Right
   filename: dataviz.png
 url_code: ""
