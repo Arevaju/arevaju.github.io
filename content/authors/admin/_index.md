@@ -1,7 +1,7 @@
 ---
 title: Juan Arevalo Torres
 role: International Senior Consultant
-avatar_filename: juan.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
