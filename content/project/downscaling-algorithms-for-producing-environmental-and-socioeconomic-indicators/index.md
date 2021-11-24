@@ -3,8 +3,9 @@ title: Downscaling algorithms for producing environmental and socioeconomic indi
 date: 2021-11-24T21:02:55.311Z
 draft: false
 featured: false
-categories:
-  - Geostatistics
+tags:
+  - Spatial Analysis
+categories: []
 external_link: https://fuore.espon.eu/
 image:
   filename: featured.png
