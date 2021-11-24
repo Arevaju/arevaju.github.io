@@ -5,9 +5,12 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Data science and visualization
-  - Data Management
-  - Artificial Intelligence
+  - Data analysis
+  - data visualization
+  - data management
+  - business development
+  - machine learning
+  - artificial intelligence
 social:
   - icon: envelope
     icon_pack: fas
