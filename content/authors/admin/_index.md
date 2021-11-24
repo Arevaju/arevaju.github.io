@@ -6,11 +6,11 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Data analysis
-  - data visualization
-  - data management
-  - business development
-  - machine learning
-  - artificial intelligence
+  - Data visualization
+  - Data management
+  - Business development
+  - Machine learning
+  - Artificial intelligence
 social:
   - icon: envelope
     icon_pack: fas
