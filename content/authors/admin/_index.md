@@ -4,22 +4,21 @@ role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Data science and visualization
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/arevaju
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/arevaju
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
