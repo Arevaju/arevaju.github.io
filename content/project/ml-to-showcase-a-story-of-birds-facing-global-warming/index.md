@@ -5,8 +5,8 @@ draft: false
 featured: false
 tags:
   - Machine Learning
-links:
-  - url: https://birdmigration.climate.copernicus.eu/
+external_link: https://birdmigration.climate.copernicus.eu/
+links: []
 image:
   filename: featured.png
   focal_point: Smart
