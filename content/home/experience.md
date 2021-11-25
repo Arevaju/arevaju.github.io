@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing data and modelling activities to get insights from data using ML techniques
+		* Project management of international projects
+        * Analysing data and modelling activities using ML techniques
         * Modelling and developing data visualization tools
-        * Project management of international projects
 	    * Organize capacity building activities in the field of digitalisation in partner countries
         
   - title: Project Manager
