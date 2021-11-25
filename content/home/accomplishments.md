@@ -33,13 +33,21 @@ item:
   title: Machine Learning Foundations: A Case Study Approach
   url: ""
 - certificate_url: https://www.edx.org
-  date_end: "2015-06-1"
-  date_start: "2015-01-01"
+  date_end: ""
+  date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: Spatial Ecology
+  organization: edX
   organization_url: https://www.edx.org
-  title: Spatio-Temporal data Analyses and Big Data Processing Using Free and Open Source Software
+  title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
+  url: ""
 
 design:
   columns: '2' 
