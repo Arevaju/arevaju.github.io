@@ -26,20 +26,20 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2017-01-25"
+  date_start: "2021-01-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Machine Learning Foundations: A Case Study Approach
   url: ""
-- certificate_url: http://spatial-ecology.net/
-  date_end: "2015-06-01"
-  date_start: "2015-06-10"
-  description: ""
+- certificate_url: https://www.edx.org
+  date_end: "2015-06-1"
+  date_start: "2015-01-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: Spatial Ecology
-  organization_url: http://spatial-ecology.net/
+  organization_url: https://www.edx.org
   title: Spatio-Temporal data Analyses and Big Data Processing Using Free and Open Source Software
-  url: ""
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 design:
   columns: '2' 
