@@ -1,3 +1,4 @@
+
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -25,18 +26,18 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2017-01-25"
+  date_start: "2021-01-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Machine Learning Foundations: A Case Study Approach
-  url: "https://www.coursera.org/learn/ml-foundations"
+  title: Neural Networks and Deep Learning
+  url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
-  description: Copernicus Accelerator Winner
+  description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
-  organization_url: https://copernicus-accelerator.eu.azo.jotaworks.net/august/
+  organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
