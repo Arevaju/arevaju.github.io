@@ -1,4 +1,3 @@
-
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -30,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Machine Learning Foundations: A Case Study Approach
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
