@@ -31,14 +31,22 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning Foundations: A Case Study Approach
   url: "https://www.coursera.org/learn/ml-foundations"
-- certificate_url: http://spatial-ecology.net/
-  date_end: "2015-06-01"
-  date_start: "2015-06-10"
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2021-01-01"
+  description: Copernicus Accelerator Winner
+  organization: edX
+  organization_url: https://copernicus-accelerator.eu.azo.jotaworks.net/august/
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: ""
-  organization: Spatial Ecology
-  organization_url: http://spatial-ecology.net/
-  title: 'Spatio-Temporal data Analyses and Big Data Processing Using Free and Open Source Software'
-  url: "http://spatial-ecology.net/matera2016_1/"
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
+  url: ""
 
 design:
   columns: '2' 
